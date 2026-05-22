@@ -4,7 +4,7 @@
 
 🚀 Arbeite aktuell an Python & Django  
 
-🌱 Spezialisiere mich auf Django, Spring-Boot und Netzwerke
+🌱 Spezialisiere mich auf Full-Stack-Webentwicklung und Netzwerke
 
 🐧 Debian-User
 
