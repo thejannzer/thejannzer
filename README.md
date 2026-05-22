@@ -1,8 +1,11 @@
 ## About Me:
 
 💻 Informatik-Student 
+
 🚀 Arbeite aktuell an Python & Django  
+
 🌱 Spezialisiere mich auf Django, Spring-Boot und Netzwerke
+
 🐧 Debian-User
 
 ## 💻 Tech Stack
