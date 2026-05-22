@@ -1,4 +1,17 @@
-## Hi there 👋
+## About Me:
+
+💻 Informatik-Student 
+🚀 Arbeite aktuell an Python & Django  
+🌱 Spezialisiere mich auf Django, Spring-Boot und Netzwerke
+🐧 Debian-User
+
+## 💻 Tech Stack
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!--
 **thejannzer/thejannzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
